@@ -10,5 +10,5 @@ environment:
 
 dependencies:
   build: ">=2.0.0 <2.1.0" 
-  source_gen: ^0.9.10+3
+  source_gen: ^1.0.0
   analyzer: ^1.1.0 #removed because code generator throws exception on iOs
